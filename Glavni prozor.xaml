@@ -1,0 +1,35 @@
+﻿<Window x:Class="WPF_zadaca_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Korisnici" Height="600" Width="600" Icon="Resources/Ikonica_GlavnaForma.png" WindowStartupLocation="CenterScreen" MinWidth="600" MinHeight="600" Loaded="Window_Loaded">
+    <Grid x:Name="grid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="37*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="303*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Podešavanje konekcije" Grid.Column="1" Margin="0,10,0,0" FontStyle="Italic" FontSize="16" Foreground="#FF0B0BCD" HorizontalAlignment="Right" VerticalAlignment="Top" Height="32" Width="165" MouseLeftButtonDown="Label_MouseLeftButtonDown"/>
+        <Label Content="Unos i prikaz podataka o korisnicima" Margin="102,0,101,0" Grid.Row="1" Grid.ColumnSpan="2" FontWeight="Bold" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Label Content="Korisničko ime" Margin="0,5" Grid.Row="2" HorizontalContentAlignment="Right" VerticalContentAlignment="Stretch" Height="26" HorizontalAlignment="Right" Width="87" VerticalAlignment="Center"/>
+        <Label Content="Lozinka" Margin="0,5" Grid.Row="3" HorizontalContentAlignment="Right" VerticalContentAlignment="Stretch" Height="26" HorizontalAlignment="Right" Width="50" VerticalAlignment="Center"/>
+        <Label Content="Ime" Margin="0,5" Grid.Row="4" HorizontalContentAlignment="Right" VerticalContentAlignment="Stretch" Height="26" HorizontalAlignment="Right" Width="30" VerticalAlignment="Center"/>
+        <Label Content="Prezime" Margin="0,6,0,5" Grid.Row="5" HorizontalContentAlignment="Right" VerticalContentAlignment="Stretch" Height="26" HorizontalAlignment="Right" Width="52" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtbox_username" Grid.Column="1" Height="24" Grid.Row="2" TextWrapping="Wrap" Width="170" Margin="5,0,0,0" Padding="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Center" TabIndex="1"/>
+        <TextBox x:Name="txtbox_Ime" Grid.Column="1" Height="24" Grid.Row="4" TextWrapping="Wrap" Width="170" Margin="5,0,0,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Center" TabIndex="3"/>
+        <TextBox x:Name="txtbox_Prezime" Grid.Column="1" Height="24" Margin="5,0,0,0" Grid.Row="5" TextWrapping="Wrap" Width="170" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Center" TabIndex="4"/>
+        <PasswordBox x:Name="passbox_password" Grid.Column="1" Grid.Row="3" Width="170" Height="24" Margin="5,0,0,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Center" TabIndex="2"/>
+        <Button x:Name="btn_Snimi" Content="Snimi" Margin="0,0,40,0" Grid.Row="6" Width="75" VerticalAlignment="Top" HorizontalAlignment="Right" Height="32" Click="Button_Click_1"/>
+        <Button x:Name="btn_Ponisti" Content="Poništi" Grid.Column="1" Margin="40,0,0,0" Grid.Row="6" Width="75" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" Click="Button_Click"/>
+        <DataGrid x:Name="datagrid" Margin="0" Grid.Row="7" Grid.ColumnSpan="2" Height="274" Width="572" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" TabIndex="0" AlternatingRowBackground="#FFCED9E0" IsReadOnly="True"/>
+
+    </Grid>
+</Window>

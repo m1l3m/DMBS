@@ -1,0 +1,34 @@
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\bin\Debug\WPF_zadaca_2.exe.config
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\bin\Debug\WPF_zadaca_2.exe
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\bin\Debug\WPF_zadaca_2.pdb
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.csprojResolveAssemblyReference.cache
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\Glavni prozor.baml
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\Glavni prozor.g.cs
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\App.g.cs
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2_MarkupCompile.cache
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.g.resources
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.Properties.Resources.resources
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.csproj.GenerateResource.Cache
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.exe
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.pdb
+c:\users\milenko\documents\visual studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\bin\Debug\mysql.data.dll
+C:\Users\Milenko\Documents\Visual Studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\Podesavanja.baml
+C:\Users\Milenko\Documents\Visual Studio 2012\Projects\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\Podesavanja.g.cs
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\bin\Debug\WPF_zadaca_2.exe.config
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\bin\Debug\WPF_zadaca_2.exe
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\bin\Debug\WPF_zadaca_2.pdb
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\bin\Debug\mysql.data.dll
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.csprojAssemblyReference.cache
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\Glavni prozor.baml
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\Podesavanja.baml
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\Glavni prozor.g.cs
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\Podesavanja.g.cs
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\App.g.cs
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2_MarkupCompile.cache
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.g.resources
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.Properties.Resources.resources
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.csproj.GenerateResource.cache
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.csproj.CoreCompileInputs.cache
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.csproj.CopyComplete
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.exe
+C:\Users\kolfi\source\repos\WPF_zadaca_2\WPF_zadaca_2\obj\Debug\WPF_zadaca_2.pdb
